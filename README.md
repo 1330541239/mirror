@@ -15,6 +15,7 @@
 http://s3.amazonaws.com/urtuz53txrmk9/index.html
 
 如果不确认蓝灯安装文件是否为官方，请检查双击打开的对话框。如下图所示发行商为Brave New Software Project, Inc的就是官方版本。如果没有如下图所示的发行商，请勿安装。
+
 ![image](https://cloud.githubusercontent.com/assets/20512438/20381528/a251d112-ac5c-11e6-9d14-8f796e0b4908.png)
 
 最新版本下载地址(更新版本会使用同样的下载地址)。 请大家收藏本页，方便以后更新。
