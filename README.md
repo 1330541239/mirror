@@ -10,12 +10,6 @@
 [Ubuntu 14.04 32位](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32-bit.deb)
 [Ubuntu 14.04 64位](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb)
 
-网盘下载
-[Sync网盘下载](https://ln.sync.com/dl/8d3e0f650#jm5ygm7p-qceg64ka-9pdwj8fh-vdzgsayz)
-[Evernote下载](https://www.evernote.com/shard/s313/sh/4a524ea0-f8bc-4568-876a-220c945b08ff/30dc1556b67ae04dabb38b615c6ff478)
-[PCloud网盘下载](https://my.pcloud.com/publink/show?code=kZIMTbZJgCQenumrdBnSlKFVof1lXTqMQ4V)
-[Mail.ru 下载](https://cloud.mail.ru/public/7aFw/72Sg2pYow)
-[Yandex 下载](https://yadi.sk/d/-M6yElDrumjeP)
 
 镜像网址下载
 http://s3.amazonaws.com/urtuz53txrmk9/index.html
@@ -25,6 +19,4 @@ http://s3.amazonaws.com/urtuz53txrmk9/index.html
 
 最新版本下载地址(更新版本会使用同样的下载地址)。 请大家收藏本页，方便以后更新。
 
-若无法使用，请看精华帖[蓝灯无法使用的解决办法](https://github.com/getlantern/forum/issues/1902)
-
-## 蓝灯官方中文论坛请访问 https://github.com/getlantern/forum
+若无法使用，请看精华帖[蓝灯无法使用的解决办法](https://github.com/getlantern/download/wiki/FAQ)
